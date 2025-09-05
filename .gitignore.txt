@@ -1,0 +1,12 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore XAMPP uploads folder (optional)
+uploaded_img/
+
+# Ignore other OS-specific files
+Thumbs.db
